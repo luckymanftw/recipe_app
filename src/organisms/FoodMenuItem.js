@@ -23,7 +23,7 @@ export default function FoodMenuItem({ recipes }) {
                             </p>
                             <p>{Math.round(recipe.score)}/5</p>
                             <div className="meal-duration">
-                                <i class="far fa-clock"></i>
+                                <i className="far fa-clock"></i>
                                 <p>{recipe.duration} min.</p>
                             </div>
                         </div>

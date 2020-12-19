@@ -1,16 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;900&display=swap');
 
 * {
     box-sizing: border-box;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
 }
 body {
     margin: 0;
-    background: rgb(227, 227, 237);
-    background: linear-gradient(
-        90deg,
-        rgba(227, 227, 237, 1) 0%,
-        rgba(220, 220, 223, 1) 46%,
-        rgba(176, 210, 217, 1) 100%
-    );
+    background-color: rgb(255, 246, 246);
 }
