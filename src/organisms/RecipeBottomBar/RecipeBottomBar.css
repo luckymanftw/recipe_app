@@ -1,0 +1,12 @@
+.detail-bottom-bar {
+    height: 115px;
+    background-color: blue;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.detail-bottom-bar i {
+    width: 30px;
+}

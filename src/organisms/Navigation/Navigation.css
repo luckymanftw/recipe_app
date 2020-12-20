@@ -1,0 +1,25 @@
+nav {
+    height: 70px;
+    box-shadow: 0px 1px 5px 0px rgb(212, 207, 207);
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+nav h1 {
+    padding-left: 38px;
+    flex-grow: 1;
+}
+
+nav i {
+    padding: 0 20px;
+}
+
+@media screen and (min-width: 768px) {
+    .recipe-detail-page main {
+        margin: 0 20% 0 20%;
+    }
+    nav h1 {
+        text-align: center;
+    }
+}

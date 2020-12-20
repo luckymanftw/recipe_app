@@ -1,0 +1,9 @@
+.meal-duration {
+    display: flex;
+    color: grey;
+    align-items: center;
+}
+.meal-duration p {
+    margin-left: 5px !important;
+    font-weight: 400;
+}

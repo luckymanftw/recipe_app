@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import RecipesListTemaplate from '../template/RecipesListTemaplate';
+import RecipesListTemaplate from '../template/RecipeListTemplate/RecipesListTemaplate';
 
 export default function RecipesList() {
     const [recipes, setRecipes] = useState(null);
